@@ -3,7 +3,7 @@
 # Copyright (C) 2019 Atul-Kadian
 
 class Text(object):
-	GREET_USER = "Hello {}!\nI am GDrive Mirror Bot developed by @atulsingh. Just send me any direct download link and I'll send you the GDrive Mirror of that file.\nNot only this, I can send you the GDrive link of YouTube videos and even can extract high quality audio from them.\n\nUse /help command to get started."
+	GREET_USER = "Hello {}!\nI am GDrive Mirror Bot kanged by @thedenomparkour. Just send me any direct download link and I'll send you the GDrive Mirror of that file.\nNot only this, I can send you the GDrive link of YouTube videos and even can extract high quality audio from them.\n\nUse /help command to get started."
 	PROCESSING = "Processing your request..."
 	VERIFYING_URL = "Verifying the link..."
 	UPLOADING_GD = "Downoaded.\nNow uploading to Google Drive and invoking permissions..."
